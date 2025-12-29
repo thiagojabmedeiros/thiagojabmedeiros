@@ -1,6 +1,6 @@
 ## Hello, world!
 <div style="display: inline_block"><br>
-<img src="https://skillicons.dev/icons?i=c,java,python,js,html,css"/>
+<img src="https://skillicons.dev/icons?i=c,python,js,html,css"/>
 </div>
 
 ### Talk to me!
