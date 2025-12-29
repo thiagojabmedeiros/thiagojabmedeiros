@@ -1,5 +1,6 @@
 ## Hello, world!
 <div style="display: inline_block"><br>
+### These are some of the languages and tools that i've been using!
 <img src="https://skillicons.dev/icons?i=c,python,js,html,css"/>
 </div>
 
