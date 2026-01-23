@@ -1,13 +1,12 @@
 ## Hello, world!
 ### Front-End
-
 <div style="display: inline_block">
   <img src="https://skillicons.dev/icons?i=js,html,css"/>
 </div>
 
-### Front-End
+### Back-End
 <div style="display: inline_block">
-  <img src="https://skillicons.dev/icons?i=node,flask"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,flask"/>
 </div>
 
 
