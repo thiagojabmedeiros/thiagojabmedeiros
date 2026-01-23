@@ -1,10 +1,14 @@
 ## Hello, world!
-### These are some of the languages and tools that i've been using!
+### Front-End
 
 <div style="display: inline_block">
-<img src="https://skillicons.dev/icons?i=c,python,js,html,css"/>
+  <img src="https://skillicons.dev/icons?i=js,html,css"/>
 </div>
 
+### Front-End
+<div style="display: inline_block">
+  <img src="https://skillicons.dev/icons?i=node,flask"/>
+</div>
 
 
 ### Talk to me!
