@@ -1,13 +1,9 @@
 ## Hello, world!
-### Front-End
+### Here are some language and tools that i've been using!
 <div style="display: inline_block">
-  <img src="https://skillicons.dev/icons?i=js,html,css"/>
+  <img src="https://skillicons.dev/icons?i=,c,java,python,js,html,css,figma,aseprite"/>
 </div>
 
-### Back-End
-<div style="display: inline_block">
-  <img src="https://skillicons.dev/icons?i=nodejs,flask"/>
-</div>
 
 
 ### Talk to me!
