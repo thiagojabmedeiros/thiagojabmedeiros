@@ -31,10 +31,10 @@
 ### Talk to me!
 <div >
   <a href="mailto:thiagojabm@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
+    <img src="https://skillicons.dev/icons?i=gmail" title="G-mail"/>
   </a>
   <a href="https://www.linkedin.com/in/thiagojabmedeiros/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
+    <img src="https://skillicons.dev/icons?i=linkedin"title="LinkedIn" />
   </a>
 </div>
 
