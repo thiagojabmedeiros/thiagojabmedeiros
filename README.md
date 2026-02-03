@@ -1,5 +1,5 @@
-### Hello, world! 👋
-## Here are some technologies I’ve been working with!
+## Hello, world! 👋
+### Here are some technologies I’ve been working with!
 
 ### 🌐 Front-End
 <div>
@@ -26,7 +26,7 @@
   <img src="https://skillicons.dev/icons?i=java" title="Java" />
   <img src="https://skillicons.dev/icons?i=python" title="Python" />
 </div>
-
+##
 
 ### Talk to me!
 <div>
