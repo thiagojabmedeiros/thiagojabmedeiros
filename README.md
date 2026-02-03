@@ -1,12 +1,12 @@
 ## Hello, world!
 ### Here are some language and tools that i've been using!
 
-### Front-End
+### 🌐 Front-End
 <div>
   <img src="https://skillicons.dev/icons?i=html,css,js,typescript"/>
 </div>
 
-### Back-End
+### ⚙️ Back-End
 <div>
     <img src="https://skillicons.dev/icons?i=php,nodejs,nest,mysql"/>
 </div>
