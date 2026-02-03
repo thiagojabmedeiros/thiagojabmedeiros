@@ -3,12 +3,12 @@
 
 ### Front-End
 <div>
-  <img src="https://skillicons.dev/icons?i=c,java,python,js,html,css,figma"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,typescript"/>
 </div>
 
 ### Back-End
 <div>
-    <img src="https://skillicons.dev/icons?i=c,java,python,js,html,css,figma"/>
+    <img src="https://skillicons.dev/icons?i=php,node,nest"/>
 </div>
 
 
