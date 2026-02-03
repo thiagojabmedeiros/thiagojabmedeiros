@@ -27,10 +27,10 @@
   <img src="https://skillicons.dev/icons?i=python" title="Python" />
 </div>
 
-<hr>
+<hr style="border: 0.5px">
 
 ### Talk to me!
-<div>
+<div >
   <a href="mailto:thiagojabm@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
