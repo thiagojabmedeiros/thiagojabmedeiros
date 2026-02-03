@@ -8,7 +8,7 @@
 
 ### Back-End
 <div>
-    <img src="https://skillicons.dev/icons?i=php,node,nest"/>
+    <img src="https://skillicons.dev/icons?i=php,nodejs,nest"/>
 </div>
 
 
