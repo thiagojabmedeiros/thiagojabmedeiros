@@ -3,7 +3,7 @@
 
 ### 🌐 Front-End
 <div>
-  <img src="https://skillicons.dev/icons?i=html,css,js,typescript"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,typescript,figma"/>
 </div>
 
 ### ⚙️ Back-End
@@ -11,7 +11,10 @@
     <img src="https://skillicons.dev/icons?i=php,nodejs,nest,mysql"/>
 </div>
 
-
+### 💻 Programming languages
+<div>
+    <img src="https://skillicons.dev/icons?i=c,java,python"/>
+</div>
 
 ### Talk to me!
 [<img target="blank" src="https://skillicons.dev/icons?i=gmail"/>](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=thiagojabm@gmail.com)
