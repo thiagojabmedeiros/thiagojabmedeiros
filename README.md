@@ -2,7 +2,7 @@
 ### Here are some technologies I’ve been working with!
 
 ### 🌐 Front-End
-<div">
+<div>
   <img src="https://skillicons.dev/icons?i=html" title="HTML" />
   <img src="https://skillicons.dev/icons?i=css" title="CSS" />
   <img src="https://skillicons.dev/icons?i=js" title="JavaScript" />
