@@ -27,7 +27,6 @@
   <img src="https://skillicons.dev/icons?i=python" title="Python" />
 </div>
 
-<hr style="border: 0.5px">
 
 ### Talk to me!
 <div >
