@@ -1,7 +1,7 @@
 ## Hello, world! 👋
 ### Here are some technologies I’ve been working with!
 
-### 🌐 Front-End
+## 🌐 Front-End
 <div>
   <img src="https://skillicons.dev/icons?i=html" title="HTML" />
   <img src="https://skillicons.dev/icons?i=css" title="CSS" />
@@ -10,9 +10,8 @@
   <img src="https://skillicons.dev/icons?i=figma" title="Figma" />
 </div>
 
----
 
-### ⚙️ Back-End
+## ⚙️ Back-End
 <div>
   <img src="https://skillicons.dev/icons?i=php" title="PHP" />
   <img src="https://skillicons.dev/icons?i=nodejs" title="Node.js" />
@@ -20,9 +19,8 @@
   <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" />
 </div>
 
----
 
-### 💻 Programming Languages
+## 💻 Programming Languages
 <div>
   <img src="https://skillicons.dev/icons?i=c" title="C" />
   <img src="https://skillicons.dev/icons?i=java" title="Java" />
