@@ -1,7 +1,13 @@
 ## Hello, world!
 ### Here are some language and tools that i've been using!
-<div style="display: inline_block">
+<div>
+  ### Front-End
   <img src="https://skillicons.dev/icons?i=c,java,python,js,html,css,figma"/>
+</div>
+
+<div>
+    ### Back-End
+    <img src="https://skillicons.dev/icons?i=c,java,python,js,html,css,figma"/>
 </div>
 
 
