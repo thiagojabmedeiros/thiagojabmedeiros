@@ -10,7 +10,7 @@
   <img src="https://skillicons.dev/icons?i=figma" title="Figma" />
 </div>
 
-
+<!---
 ### ⚙️ Back-End
 <div>
   <img src="https://skillicons.dev/icons?i=php" title="PHP" />
@@ -18,7 +18,7 @@
   <img src="https://skillicons.dev/icons?i=nest" title="NestJS" />
   <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" />
 </div>
-
+-->
 
 ### 💻 Programming Languages
 <div>
