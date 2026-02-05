@@ -6,8 +6,8 @@
   <img src="https://skillicons.dev/icons?i=html" title="HTML" />
   <img src="https://skillicons.dev/icons?i=css" title="CSS" />
   <img src="https://skillicons.dev/icons?i=js" title="JavaScript" />
-  <img src="https://skillicons.dev/icons?i=typescript" title="TypeScript" />
-  <img src="https://skillicons.dev/icons?i=figma" title="Figma" />
+  <!--<img src="https://skillicons.dev/icons?i=typescript" title="TypeScript" />-->
+  <!--<img src="https://skillicons.dev/icons?i=figma" title="Figma" />-->
 </div>
 
 <!---
