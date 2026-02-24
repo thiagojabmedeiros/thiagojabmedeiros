@@ -28,8 +28,9 @@
   <a href="mailto:thiagojabm@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" title="G-mail"/>
   </a>
-  <!-- <a href="https://www.linkedin.com/in/thiagojabmedeiros/" target="_blank">
+  <div> </div>
+  <a href="https://www.linkedin.com/in/thiagojabmedeiros/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin"title="LinkedIn" />
-  </a> -->
+  </a>
 </div>
 
