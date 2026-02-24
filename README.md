@@ -17,17 +17,13 @@
 
 ### 💻 Programming Languages
 <div>
-  <img src="https://skillicons.dev/icons?i=c" title="C" />
-  <!--<img src="https://skillicons.dev/icons?i=java" title="Java" />-->
   <img src="https://skillicons.dev/icons?i=python" title="Python" />
+  <!-- <img src="https://skillicons.dev/icons?i=c" title="C" /> -->
+  <!--<img src="https://skillicons.dev/icons?i=java" title="Java" />-->
 </div>
 
 
 ### Talk to me!
-<a href="mailto:thiagojabm@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" title="G-mail"/>
-</a>
-<a href="#">
-<a href="https://www.linkedin.com/in/thiagojabmedeiros/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin"title="LinkedIn" />
+<a href="mailto:thiagojabm@gmail.com" target="_blank">
+  <img src="https://skillicons.dev/icons?i=gmail"title="G-mail" />
 </a>
