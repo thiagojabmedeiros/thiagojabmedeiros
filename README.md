@@ -7,18 +7,13 @@
   <img src="https://skillicons.dev/icons?i=css" title="CSS" />
   <img src="https://skillicons.dev/icons?i=js" title="JavaScript" />
   <img src="https://skillicons.dev/icons?i=typescript" title="TypeScript" />
-  <img src="https://skillicons.dev/icons?i=figma" title="Figma" />
 </div>
 
-<!---
 ### ⚙️ Back-End
 <div>
-  <img src="https://skillicons.dev/icons?i=php" title="PHP" />
   <img src="https://skillicons.dev/icons?i=nodejs" title="Node.js" />
   <img src="https://skillicons.dev/icons?i=nest" title="NestJS" />
-  <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" />
 </div>
--->
 
 ### 💻 Programming Languages
 <div>
