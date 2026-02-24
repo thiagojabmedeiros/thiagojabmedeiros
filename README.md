@@ -24,7 +24,7 @@
 
 
 ### Talk to me!
-<div >
+<div style="display: flex;">
   <a href="mailto:thiagojabm@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" title="G-mail"/>
   </a>
