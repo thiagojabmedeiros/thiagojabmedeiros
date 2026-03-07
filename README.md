@@ -18,7 +18,7 @@
 ### 💻 Programming Languages
 <div>
   <img src="https://skillicons.dev/icons?i=python" title="Python" />
-  <img src="https://skillicons.dev/icons?i=java" title="Java" />
+  <!-- <img src="https://skillicons.dev/icons?i=java" title="Java" /> -->
   <!-- <img src="https://skillicons.dev/icons?i=c" title="C" /> -->
 </div>
 
