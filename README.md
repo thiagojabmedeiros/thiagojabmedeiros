@@ -13,6 +13,8 @@
 <div>
   <img src="https://skillicons.dev/icons?i=nodejs" title="Node.js" />
   <img src="https://skillicons.dev/icons?i=nest" title="NestJS" />
+  <img src="https://skillicons.dev/icons?i=supabase" title="SupaBase" />
+  <img src="https://skillicons.dev/icons?i=postgresql" title="PostgreSQL" />
 </div>
 
 ### 💻 Programming Languages
