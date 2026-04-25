@@ -12,9 +12,11 @@
 ### ⚙️ Back-End
 <div>
   <img src="https://skillicons.dev/icons?i=nodejs" title="Node.js" />
+  <img src="https://skillicons.dev/icons?i=express" title="Express" />
   <img src="https://skillicons.dev/icons?i=nest" title="NestJS" />
-  <img src="https://skillicons.dev/icons?i=supabase" title="SupaBase" />
+  <img src="https://skillicons.dev/icons?i=sequelize" title="Sequelize" />
   <img src="https://skillicons.dev/icons?i=postgresql" title="PostgreSQL" />
+  <!-- <img src="https://skillicons.dev/icons?i=supabase" title="SupaBase" /> -->
 </div>
 
 ### 💻 Programming Languages
@@ -27,5 +29,8 @@
 
 ### Talk to me!
 <a href="mailto:thiagojabm@gmail.com" target="_blank">
-  <img src="https://skillicons.dev/icons?i=gmail"title="G-mail" />
+  <img src="https://skillicons.dev/icons?i=gmail"title="Gmail" />
+</a>
+<a href="https://www.linkedin.com/in/thiagojabmedeiros/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin"title="LinkedIn" />
 </a>
