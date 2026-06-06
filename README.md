@@ -6,11 +6,11 @@
   <img src="https://skillicons.dev/icons?i=html" title="HTML" />
   <img src="https://skillicons.dev/icons?i=css" title="CSS" />
   <img src="https://skillicons.dev/icons?i=js" title="JavaScript" />
-  <img src="https://skillicons.dev/icons?i=typescript" title="TypeScript" />
 </div>
 
 ### ⚙️ Back-End
 <div>
+  <img src="https://skillicons.dev/icons?i=typescript" title="TypeScript" />
   <img src="https://skillicons.dev/icons?i=nodejs" title="Node.js" />
   <img src="https://skillicons.dev/icons?i=express" title="Express" />
   <img src="https://skillicons.dev/icons?i=nest" title="NestJS" />
