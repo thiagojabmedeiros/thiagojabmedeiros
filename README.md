@@ -5,8 +5,6 @@
 <div>
   <img src="https://skillicons.dev/icons?i=html" title="HTML" />
   <img src="https://skillicons.dev/icons?i=css" title="CSS" />
-  <img src="https://skillicons.dev/icons?i=js" title="JavaScript" />
-  <img src="https://skillicons.dev/icons?i=typescript" title="TypeScript" />
 </div>
 
 ### ⚙️ Back-End
@@ -23,6 +21,8 @@
 ### 💻 Programming Languages
 <div>
   <img src="https://skillicons.dev/icons?i=python" title="Python" />
+  <img src="https://skillicons.dev/icons?i=js" title="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=typescript" title="TypeScript" />
   <!-- <img src="https://skillicons.dev/icons?i=java" title="Java" /> -->
   <!-- <img src="https://skillicons.dev/icons?i=c" title="C" /> -->
 </div>
